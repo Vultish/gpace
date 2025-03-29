@@ -1,0 +1,1 @@
+{"tracks": {"ring": {"pist_uzunlugu": 5.4, "viraj_sayisi": 16.0, "duz_yol_yuzdesi": 0.6}, "shutoku": {"pist_uzunlugu": 0.4, "viraj_sayisi": 0.0, "duz_yol_yuzdesi": 0.5}}, "cars": {"bmw m5": {"ortalama_hiz": 310.0, "viraj_performansi": 0.8, "ivmelenme": 0.7, "hava_direnci": 0.3}, "bmw e30": {"ortalama_hiz": 180.0, "viraj_performansi": 0.6, "ivmelenme": 0.5, "hava_direnci": 0.5}}}
